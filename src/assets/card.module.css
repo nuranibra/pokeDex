@@ -1,0 +1,14 @@
+.card{
+    border:1px solid #000;
+    padding:2%;
+    border-radius:10px;
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    width:20%;
+}
+
+.pokemonImg{
+    width: 200px;
+    height: 200px;
+}
